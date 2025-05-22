@@ -121,4 +121,11 @@ jupyter notebook
 Then open the `.ipynb` file and run the code cells sequentially.
 
 ---
+## 📝 Citation
+
+If you use this code, please cite:
+
+Kurth S, Al-Andoli M, Zimmermann P, Schoch S, Markovic A, Mühlematter C, Beaugrand M, Jenni O, Liamlahi R, Walser JC, Nielsen D. Fecal melatonin as a biomarker of emerging circadian maturity and gut microbiota in infancy. DOI: https://doi.org/10.21203/rs.3.rs-6569729/v1
+ 
+
 
